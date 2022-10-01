@@ -1,0 +1,125 @@
+.sidebar{
+    float: left;
+    width: 16%;
+    height: 100%;
+    box-shadow: 0px 4px 10px 1px rgba(103, 103, 101, 0.2);
+    position: fixed;
+    overflow-y: scroll;
+  }
+  .sidebar_logo{
+    height: 17vh;
+    float: left;
+    width: 100%;
+    padding: 6vh 0px 0px 12%;
+  }
+  .sidebar_logo img{
+    width: 60%;
+    float: left;
+    object-fit: cover;
+  }
+  .sidebar_links{
+    float: left;
+    width: 100%;
+
+  }
+.sidebar_links div{
+  float: left;
+  width: 100%;
+}
+.sidebar_links div span{
+  width: 100%;
+  font-size: 17px;
+  line-height: 20px;
+  padding: 1.5vh 20%;
+  color: #050C04;
+  float: left;
+  font-family: "interlight";
+  font-weight: 400;
+}
+.sidebar_links div .side_icon{
+  color: #757674;
+}
+.sidebar_links div .active{
+  background-color: #374EA2;
+  color: #fff;
+  width: 100%;
+  float: left;
+}
+.sidebar_links div .active .side_icon{
+  color: #fff;
+}
+.sidebar_links div .active2{
+  background-color: #FFF2EC;
+  color: #F26522;
+  width: 100%;
+  float: left;
+  margin-top: 4vh;
+}
+.sidebar_links div .active2 .side_icon{
+  color: #F26522;
+}
+.sidebar_buttons{
+  float: left;
+  width: 60%;
+  margin-left: 20%;
+  cursor: pointer;
+}
+.sidebar_buttons span{
+  padding: 1vh 26% 1vh 14%;
+  font-family: "intermedium";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 17px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #FFFFFF;
+  margin-top: 1.5vh;
+  float: left;
+  border-radius: 5px;
+}
+.sidebar_buttons .icon{
+  float: left;
+  font-size: 14px;
+  margin-right: 10px;
+}
+.side_icon{
+  margin-right: 5%;
+  font-weight: 400;
+  margin-top: -.2vh;
+}
+.sidebar_cat{
+  float: left;
+  width: 70%;
+  margin-top: 6vh;
+  margin-left: 20%;
+}
+
+.sidebar_cat div span{
+  width: 100%;
+  font-size: 15px;
+  line-height: 20px;
+  padding: 1.5vh 0% 1.5vh 0%;
+  color: #050C04;
+  float: left;
+  font-family: "interlight";
+  font-weight: 400;
+  padding-bottom: 1.3vh;
+border-bottom: 1px solid #C4C4C4;
+margin-top: .5vh;
+cursor: pointer;
+}
+.sidebar_cat_title{
+  float: left;
+  width: 100%;
+  font-family: "interlight";
+font-size: 13px !important;
+font-style: normal;
+font-weight: 400;
+line-height: 12px;
+letter-spacing: 0em;
+text-align: left;
+padding-bottom: 0vh !important;
+border-bottom: 0px solid #C4C4C4 !important;
+margin-bottom: 1vh;
+}

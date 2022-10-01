@@ -1,0 +1,62 @@
+.primaryColor{
+    color: #050C04;
+}
+.secondaryColor{
+    color: #374EA2;
+}
+.primaryButton{
+    color: #ffffff;
+    background-color: #374EA2;
+}
+.secondaryButton{
+    color: #ffffff;
+    background-color: #F4A50B;
+}
+.tertiaryButton{
+    color: #374EA2;
+    background-color: #fff;
+    border: 1px solid #374EA2;
+}
+.redButton{
+    color: #fff;
+    background-color: #E82222;
+}
+.greenButton{
+    color: #fff;
+    background-color: #63B74F;
+}
+.greenColor{
+  color: #E2FBD7;
+}
+.redColor{
+    color:#E82222;
+}
+.yellowColor{
+    color: #F4A50B;
+}
+.orangeColor{
+    color: #F26522;
+}
+.limeColor{
+    color: #6BC257;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

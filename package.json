@@ -1,0 +1,77 @@
+{
+  "name": "streaming",
+  "version": "0.1.0",
+  "private": true,
+  "proxy": "http://localhost/",
+  "dependencies": {
+    "@artoonie/timeline-range-slider": "^0.1.11",
+    "@babel/core": "^7.16.7",
+    "@devexpress/dx-react-core": "^2.7.6",
+    "@devexpress/dx-react-scheduler": "^2.7.6",
+    "@devexpress/dx-react-scheduler-material-ui": "^2.7.6",
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/icons": "^4.11.2",
+    "@scena/react-ruler": "^0.7.3",
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.3",
+    "@testing-library/user-event": "^12.6.2",
+    "axios": "^0.23.0",
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.5.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "rand-token": "^1.0.1",
+    "react": "^17.0.1",
+    "react-big-calendar": "^0.38.4",
+    "react-big-calendar-teabough": "^0.23.12",
+    "react-bootstrap": "^1.4.3",
+    "react-bootstrap-sweetalert": "^5.2.0",
+    "react-custom-scrollbars": "^4.2.1",
+    "react-datepicker": "^3.4.1",
+    "react-dom": "^17.0.1",
+    "react-icons": "^4.1.0",
+    "react-js-pagination": "^3.0.3",
+    "react-media-player": "^0.7.9",
+    "react-media-player-with-playback-speed": "^0.1.0",
+    "react-player": "^2.9.0",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.1",
+    "react-share": "^4.4.0",
+    "react-tabs": "^3.2.2",
+    "react-tackle-box": "^2.1.0",
+    "react-timeline-range-slider": "^1.4.1",
+    "reactstrap": "^8.9.0",
+    "slide-ruler": "^0.2.0",
+    "web-vitals": "^0.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "css-loader": "^5.0.1",
+    "install-peers": "^1.0.3",
+    "style-loader": "^2.0.0"
+  }
+}
